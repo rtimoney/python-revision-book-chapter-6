@@ -1,3 +1,4 @@
+# chapter 6
 # Storing Functions
 
 # cat will be a module which stores functions to be made available to other files in the program
