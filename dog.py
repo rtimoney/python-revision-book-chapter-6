@@ -1,4 +1,7 @@
-#  IMPORTING FUNCTIONS - (Chapter 6 - Creating Functions) page 82  
+# Chapter 6 - Creating Functions 
+# page 82  
+#  IMPORTING FUNCTIONS 
+
 
 # dog will be a module which stores functions to be made available to other files in the program
 
