@@ -1,3 +1,4 @@
+# chapter 6
 # Defining Blocks
 
 # custom functions in Python are defined using the def keyword as follows :
