@@ -1,3 +1,4 @@
+# chapter 6
 # Adding Parameters
 
 # define a function with three params which simply returns thise params 
